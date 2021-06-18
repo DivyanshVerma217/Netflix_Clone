@@ -1,0 +1,7 @@
+.text-center{
+    position: relative;
+    text-align: center;
+    font-size: larger;
+    background-size: cover;
+    height: 110px;
+}
