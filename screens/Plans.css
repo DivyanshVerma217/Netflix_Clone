@@ -1,0 +1,35 @@
+.plansInfo1{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    opacity: 0.8;
+    font-size: 20px;
+}
+
+.plansInfo1:hover{
+    color: whitesmoke;
+    opacity: 1;
+}
+
+.plansInfo1>button{
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    
+}
+.btn:hover{
+    background-color: antiquewhite;
+    color: black;
+
+}
+
+
+
+
+  
+
+  
